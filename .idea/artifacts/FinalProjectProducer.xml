@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinalProjectProducer">
+    <output-path>$PROJECT_DIR$/out/artifacts/FinalProjectProducer</output-path>
+    <root id="archive" name="FinalProjectProducer.jar">
+      <element id="module-output" name="final-project-kafka-producer" />
+    </root>
+  </artifact>
+</component>
